@@ -1,0 +1,2 @@
+[console_scripts]
+taipy = taipy._entrypoint:_entrypoint
