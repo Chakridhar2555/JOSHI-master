@@ -1,9 +1,4 @@
-# JARVIS
-
-<p align="center">
-  <img src="media/cqb_conv.png" alt="JARVIS helping me choose a firearm" width="100%"/>
-</p>
-
+#joshi 
 Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in a web interface.
 
 ## How it works
@@ -15,13 +10,7 @@ Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in 
 5. :loud_sound: Speech is played using <a href="https://www.pygame.org/wiki/GettingStarted" target="_blank">Pygame</a>
 6. :computer: Conversation is displayed in a webpage using <a href="https://github.com/Avaiga/taipy" target="_blank">Taipy</a>
 
-## Video Demo
 
-<p align="center">
-  <a href="https://youtu.be/aIg4-eL9ATc" target="_blank">
-    <img src="media/git_thumb.png" alt="Youtube Devlog" width="50%"/>
-  </a>
-</p>
 
 ## Requirements
 
@@ -37,7 +26,7 @@ Make sure you have the following API keys:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/AlexandreSajus/JARVIS.git
+[git clone https://github.com/AlexandreSajus/JARVIS.git](https://github.com/Chakridhar2555/JOSHI-master.git)
 ```
 
 2. Install the requirements
@@ -85,13 +74,9 @@ Finished generating response in 0.72 seconds.
 Finished generating audio in 1.85 seconds.
 Speaking...
 
- --- USER: good morning jarvis
- --- JARVIS: Good morning, Alex! How can I assist you today?
+ --- USER: good morning Joshi
+ --- JARVIS: Good morning, Chakri ! How can I assist you today?
 
 Listening...
 ...
 ```
-
-<p align="center">
-  <img src="media/good_morning.png" alt="Saying good morning" width="80%"/>
-</p># JOSHI-master
