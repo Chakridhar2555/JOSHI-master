@@ -26,7 +26,7 @@ Make sure you have the following API keys:
 1. Clone the repository
 
 ```bash
-[git clone https://github.com/AlexandreSajus/JARVIS.git](https://github.com/Chakridhar2555/JOSHI-master.git)
+(https://github.com/Chakridhar2555/JOSHI-master.git)
 ```
 
 2. Install the requirements
